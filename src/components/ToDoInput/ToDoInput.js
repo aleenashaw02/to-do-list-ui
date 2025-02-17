@@ -18,7 +18,7 @@ const ToDoInput = ({ handleAddTodo, value, setValue  }) => {
           setValue("");
         }}
       >
-        ADD
+        ADD TO LIST
       </button>
     </header>
   );

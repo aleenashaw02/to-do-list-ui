@@ -2,6 +2,13 @@
   margin: 2%;
 }
 
+.heading {
+  display: flex;
+  justify-content: center;
+  font-family: "Grechen Fuemen", serif;
+  font-size: 54px;
+}
+
 .toDoInput {
   margin: 10px;
   display: flex;

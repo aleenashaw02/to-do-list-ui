@@ -44,6 +44,7 @@ function App() {
 
   return (
     <div className="root">
+      <div className="heading">TO-DO-LIST</div>
       <ToDoInput
         handleAddTodo={handleAddTodo}
         value={value}
